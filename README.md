@@ -5,9 +5,8 @@
 ### `Hustling everyday 🚀`
 
 🎓 B.Tech CSE @ Netaji Subhas University of Technology (Batch 2024–2028)  
-🎭 PR Head, Ashwamedh — Dramatics Society, NSUT  
 💻 Full-Stack Development • Competitive Programming • Creative/Filmmaking  
-🌱 Currently exploring AI-integrated web apps
+🌱 Currently exploring AI-integrated web apps  
 
 <br/>
 
