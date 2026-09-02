@@ -92,26 +92,14 @@ I work across **full-stack development**, **competitive programming**, and **cre
 
 ## 📌 Featured Projects
 
-### 🍳 [ChefAI](https://github.com/krishna-131326)
-Full-stack cooking assistant with a FastAPI backend and React/TypeScript/Vite frontend. Features a "Liquid Gastronomy" glassmorphism design, Groq LLM integration, YouTube transcript extraction, and FAISS/RAG-based retrieval over a WebSocket session layer.
+### 🤖 [Jarvis AI Assistant](https://github.com/krishna-4code/Jarvis-AI-Assistant)
+An extensible AI assistant featuring FastAPI, LLM integration, plugin-based tools, conversational memory, async architecture, and production-grade backend engineering.
 
-### 🌱 [EcoSankalan](https://github.com/krishna-131326)
-PWA sustainability and waste-management platform built for NSUT CPVS-STP 2025–26. Led frontend and UI/UX — glassmorphic marketing landing page, custom boot/splash animation, full routing with AuthContext, and Material Design 3 green tokens. Live on Vercel.
+### 🎨 [Portfolio](https://github.com/krishna-4code/Portfolio)
+A high-end scrollytelling portfolio with Canvas image-sequence animation, parallax text overlays, glassmorphism project cards, and a custom cursor — built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
 
-### 🤖 [JARVIS](https://github.com/krishna-131326/MEGA-PROJECT-1-JARVIS)
-Python voice assistant with Groq LLaMA-3 integration, browser/news plugins, and conversation memory. Currently being upgraded to a FastAPI backend with a modular plugin architecture (`src/jarvis/`).
+### 🔁 [CFG ↔ PDA Visualizer](https://github.com/krishna-4code/CFG-PDA_Visualizer)
+An interactive educational web app for visualizing conversions between Context-Free Grammars and Pushdown Automata — with automatic CFG→PDA conversion, step-by-step simulation, and animated stack visualization.
 
-### 🛣️ Route Resilience
-Road-extraction and graph-criticality analysis pipeline built for ISRO's PS-4 hackathon problem statement, using SegFormer, OSMnx, and MLflow — with a config-driven architecture and a growing unit test suite.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=krishna-131326&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top
+### ✅ [Task Manager API](https://github.com/krishna-4code/Task_Manager_API_FES)
+An asynchronous REST API for managing tasks, built with FastAPI and MongoDB (via Motor) — with Pydantic validation, automated tests, and interactive API docs.
