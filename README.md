@@ -1,19 +1,13 @@
-
-around the README. The `README.md` file itself should contain the Markdown/HTML directly.
-
-### Your file should start like this
-
-```md
 <div align="center">
 
 # 👋 Hey, I'm Krishna
 
 ### `Hustling everyday 🚀`
 
-🎓 B.Tech CSE @ Netaji Subhas University of Technology  
-💻 3rd Year Computer Science Student  
-🔐 Interested in Cybersecurity & Machine Learning  
-🌱 Currently exploring Development
+🎓 B.Tech CSE @ Netaji Subhas University of Technology (Batch 2024–2028)  
+🎭 PR Head, Ashwamedh — Dramatics Society, NSUT  
+💻 Full-Stack Development • Competitive Programming • Creative/Filmmaking  
+🌱 Currently exploring AI-integrated web apps
 
 <br/>
 
@@ -35,11 +29,9 @@ around the README. The `README.md` file itself should contain the Markdown/HTML 
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at **Netaji Subhas University of Technology**, currently in my 3rd year.
+I'm a Computer Science student at **Netaji Subhas University of Technology**, batch of 2024–2028.
 
-I'm passionate about building things, solving problems, and continuously learning new technologies.
-
-Currently exploring **Development**, with a growing interest in **Cybersecurity** and **Machine Learning**.
+I work across **full-stack development**, **competitive programming**, and **creative/filmmaking projects** — and serve as **PR Head of Ashwamedh**, NSUT's Dramatics Society.
 
 > **Hustling everyday.**
 
@@ -89,20 +81,28 @@ Currently exploring **Development**, with a growing interest in **Cybersecurity*
 
 ## 🚀 What I'm Currently Working On
 
-- 🌱 Improving my development skills
+- 🍳 **ChefAI** — full-stack cooking assistant (FastAPI + React/TS/Vite) with RAG, Groq integration, and a glassmorphism UI
+- 🌱 **EcoSankalan** — sustainability/waste-management PWA built for NSUT CPVS-STP 2025–26
+- 🤖 **JARVIS** — Python voice assistant, mid-upgrade to a FastAPI + plugin architecture
+- 🛣️ **Route Resilience** — road-extraction & graph-criticality pipeline for ISRO PS-4 (SegFormer, OSMnx, MLflow)
 - 🧩 Strengthening Data Structures & Algorithms
-- 🔐 Exploring Cybersecurity
-- 🤖 Learning Machine Learning
-- ⚙️ Building projects and experimenting with new technologies
 - 📚 Learning something new, everyday
 
 ---
 
 ## 📌 Featured Projects
 
-<!--
-I'll add your actual projects here once we identify your best repositories.
--->
+### 🍳 [ChefAI](https://github.com/krishna-131326)
+Full-stack cooking assistant with a FastAPI backend and React/TypeScript/Vite frontend. Features a "Liquid Gastronomy" glassmorphism design, Groq LLM integration, YouTube transcript extraction, and FAISS/RAG-based retrieval over a WebSocket session layer.
+
+### 🌱 [EcoSankalan](https://github.com/krishna-131326)
+PWA sustainability and waste-management platform built for NSUT CPVS-STP 2025–26. Led frontend and UI/UX — glassmorphic marketing landing page, custom boot/splash animation, full routing with AuthContext, and Material Design 3 green tokens. Live on Vercel.
+
+### 🤖 [JARVIS](https://github.com/krishna-131326/MEGA-PROJECT-1-JARVIS)
+Python voice assistant with Groq LLaMA-3 integration, browser/news plugins, and conversation memory. Currently being upgraded to a FastAPI backend with a modular plugin architecture (`src/jarvis/`).
+
+### 🛣️ Route Resilience
+Road-extraction and graph-criticality analysis pipeline built for ISRO's PS-4 hackathon problem statement, using SegFormer, OSMnx, and MLflow — with a config-driven architecture and a growing unit test suite.
 
 ---
 
@@ -111,79 +111,7 @@ I'll add your actual projects here once we identify your best repositories.
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=krishna-4code&show_icons=true&theme=tokyonight&hide_border=true" />
+src="https://github-readme-stats.vercel.app/api?username=krishna-131326&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-4code&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=krishna-4code&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-4code&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishna-4code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/krishnachoudharyy/">
-  <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Choudhary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://portfoliokrishna-three.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:krishnachoudhary131326@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_this.is_krishna/">
-  <img src="https://img.shields.io/badge/Instagram-_this.is_krishna-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Currently
-
-**Learning → Building → Breaking → Fixing → Learning Again**
-
-⭐ Feel free to explore my repositories!
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=krishna-4code&style=flat-square&color=blue" />
-
-</div>
+src="https://github-readme-stats.vercel.app/api/top
